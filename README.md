@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game created using Python
+Tic-Tac-Toe game for 2 players created using Python.
